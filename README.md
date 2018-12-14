@@ -5,4 +5,4 @@ This system will not be provided as full source once its used within our agency,
 
 For support please contact dev@dsgdrops.com
 
-Current Public Vesion 4.0.2
+Current Public Version 4.0.2
